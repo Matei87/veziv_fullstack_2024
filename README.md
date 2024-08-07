@@ -27,7 +27,7 @@ Aplicatie gestionare portofoliu de lucrari pentru artist digital
 4. Porneste aplicatia
 
 ```sh
-  npm start
+  npm run dev
 ```
 
 # Backend:
@@ -47,5 +47,5 @@ Aplicatie gestionare portofoliu de lucrari pentru artist digital
 4. Porneste aplicatia
 
 ```sh
-  npm start
+  npm run start
 ```
