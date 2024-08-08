@@ -55,8 +55,6 @@ const ArtworkEdit = () => {
     window.location.href = '/';
   };
 
-  console.log('ArtworkEdit ', formData);
-
   return (
     <form onSubmit={handleSubmit}>
       <input

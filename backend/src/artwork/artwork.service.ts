@@ -19,7 +19,6 @@ export class ArtworkService {
 
   async create(artwork: Artwork): Promise<Artwork> {
     const newArtwork = new this.artworkModel(artwork);
-    console.log('Injectable create ', artwork);
     return await newArtwork.save();
   }
 

@@ -10,26 +10,6 @@ Aplicatie gestionare portofoliu de lucrari pentru artist digital
   git clone https://github.com/Matei87/veziv_fullstack_2024.git
 ```
 
-# Frontend:
-
-2. Navigheaza in folderul frontend
-
-```sh
-  cd frontend
-```
-
-3. Instaleaza dependintele
-
-```sh
-  npm install
-```
-
-4. Porneste aplicatia
-
-```sh
-  npm run dev
-```
-
 # Backend:
 
 2. Navigheaza in folderul backend
@@ -48,4 +28,24 @@ Aplicatie gestionare portofoliu de lucrari pentru artist digital
 
 ```sh
   npm run start
+```
+
+# Frontend:
+
+2. Navigheaza in folderul frontend
+
+```sh
+  cd frontend
+```
+
+3. Instaleaza dependintele
+
+```sh
+  npm install
+```
+
+4. Porneste aplicatia
+
+```sh
+  npm run dev
 ```
